@@ -1,4 +1,6 @@
-# Base layout template with Gulp, SCSS and Stylelint
-1. Create a repo using this template
-1. Replace `<your_account>` and `<repo_name>` with your Github username and the new repo name
-    - [DEMO LINK](https://nataliaso23.github.io/phone-catalog/)
+Loja Online com React. Desenvolvimento de aplicativos em React usando JSX, hooks, router, componentes de classe e funcionais.
+
+
+[LINK PROJETO](nataliaso23.github.io/phone-catalog/)
+
+[LINK DEMONSTRAÇÃO](https://www.figma.com/design/T5ttF21UnT6RRmCQQaZc6L/Phone-catalog--V2--Original)
