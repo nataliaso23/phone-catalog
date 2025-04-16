@@ -1,0 +1,1 @@
+import{j as o,L as e}from"./index-Cmpk2Ixb.js";const s=()=>o.jsxs("div",{className:"container",children:[o.jsx("p",{children:"Page not found"}),o.jsx(e,{to:"/",children:"Go to HomePage"})]});export{s as NotFoundPage};

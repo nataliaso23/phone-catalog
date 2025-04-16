@@ -1,0 +1,1 @@
+import{r as a,G as t,j as o}from"./index-Cmpk2Ixb.js";const e="/react_phone-catalog/assets/logo_dark-BfREnrH9.svg",r="/react_phone-catalog/assets/logo-CU5-laXR.svg",c=()=>{const{theme:s}=a.useContext(t);return o.jsx("div",{className:"loader",children:o.jsx("img",{src:s==="light"?r:e,alt:"Logo",className:"loader__image"})})};export{c as L};
